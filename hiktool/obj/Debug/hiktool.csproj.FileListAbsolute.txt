@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\C#Exercise\hiktool\hiktool\obj\Debug\hiktool.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#Exercise\hiktool\hiktool\obj\Debug\hiktool.exe
+C:\Users\Administrator\Desktop\C#Exercise\hiktool\hiktool\obj\Debug\hiktool.pdb
+C:\Users\Administrator\Desktop\C#Exercise\hiktool\hiktool\bin\hiktool.exe
+C:\Users\Administrator\Desktop\C#Exercise\hiktool\hiktool\bin\hiktool.pdb
